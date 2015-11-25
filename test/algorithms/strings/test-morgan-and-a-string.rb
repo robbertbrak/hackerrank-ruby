@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require '../strings/morgan-and-a-string'
+require '../../../lib/algorithms/strings/morgan-and-a-string'
 
 class TestMorganAndAString < Minitest::Test
 
